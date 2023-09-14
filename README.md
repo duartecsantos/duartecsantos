@@ -2,9 +2,9 @@
 
 💼 I am currently working as an **AppSec Analyst** for **Checkmarx**.
 
-🎓 In December 2022, I completed my **Master's degree in Computer Science and Engineering**, specializing in the exciting fields of **Cybersecurity** and **AI**.
+🎓 In December 2022, I completed my **Master's degree in Computer Science and Engineering** at **Instituto Superior Técnico**, specializing in the exciting fields of **Cybersecurity** and **AI**.
 
-🚩 Although I still have a lot to learn, I enjoy taking part in **Capture The Flag** (CTF) competitions as a proud member of team **STT**.
+🚩 Although I still have a lot to learn, I enjoy taking part in **Capture The Flag (CTF)** competitions as a proud member of team **STT**.
 
 .
 
