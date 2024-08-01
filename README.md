@@ -1,10 +1,12 @@
 # Hello, I'm Duarte Santos 👋
 
-💼 I am currently working as an **AppSec Analyst** for **Checkmarx**.
+💼 I am currently working as an **Security Testing Engineer** for **Blip** (part of the **Flutter Entertainment Group**).
 
 🎓 In December 2022, I completed my **Master's degree in Computer Science and Engineering** at **Instituto Superior Técnico**, specializing in the exciting fields of **Cybersecurity** and **AI**.
 
-🚩 Although I still have a lot to learn, I sometimes take part in **Capture The Flag (CTF)** competitions as a proud member of team **STT**.
+.
+
+Although I still have a lot to learn, I sometimes take part in **Capture The Flag (CTF)** competitions as a proud member of team **STT**.
 
 .
 
